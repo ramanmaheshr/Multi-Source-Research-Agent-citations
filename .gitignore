@@ -8,3 +8,10 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Environment & secrets — NEVER commit these
+.env
+.env.*
+*.key
+*.pem
+secrets.toml
