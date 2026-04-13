@@ -1,0 +1,7 @@
+# LLM & AI
+langchain-ollama>=0.2.3
+langchain-groq>=0.2.3
+langgraph>=0.3.5
+
+# Settings & Config
+pydantic-settings>=2.7.0
